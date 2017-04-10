@@ -1,4 +1,9 @@
 # git-manifest-destiny
+
+JOKE REPO - DO NOT USE.
+
+Please do not make judgements about my character based on  this repo.
+
 A fun, worthless trick to claim every line in a repo.
 
 
