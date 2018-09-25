@@ -14,4 +14,4 @@ It won't register on a pull request as a changed file but you can now claim enti
 
 It's basically a very safe of way of breaking something so you can be the one who fixed it.
 
-Nerd
+Geek
